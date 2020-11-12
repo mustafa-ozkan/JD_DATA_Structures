@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-01-Arrays/DataStructures-01-Arrays.iml" filepath="$PROJECT_DIR$/DataStructures-01-Arrays/DataStructures-01-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-02-LinkedLists/DataStructures-02-LinkedLists.iml" filepath="$PROJECT_DIR$/DataStructures-02-LinkedLists/DataStructures-02-LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-03-Stacks/DataStructures-03-Stacks.iml" filepath="$PROJECT_DIR$/DataStructures-03-Stacks/DataStructures-03-Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-04-Queues/DataStructures-04-Queues.iml" filepath="$PROJECT_DIR$/DataStructures-04-Queues/DataStructures-04-Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-05-Hashing/DataStructures-05-Hashing.iml" filepath="$PROJECT_DIR$/DataStructures-05-Hashing/DataStructures-05-Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JD-DataStructures.iml" filepath="$PROJECT_DIR$/.idea/JD-DataStructures.iml" />
+    </modules>
+  </component>
+</project>
